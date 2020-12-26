@@ -5,7 +5,7 @@
 				name = "TestPlugin.glyphsReporter";
 				title = "TestPlugin";
 				url = "https://github.com/Shotype/TestPlugin";
-				descriptions = "*View > TestPlugin* displays a text string "Text" to see if the plugin works properly or not.";
+				descriptions = "*View > TestPlugin* displays a text string Text to see if the plugin works properly or not.";
 			}
 		);
 	};
